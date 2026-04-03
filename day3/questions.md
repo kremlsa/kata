@@ -1,0 +1,2 @@
+- Почему stacktrace нельзя отдавать пользователю?
+- Что такое information disclosure?
