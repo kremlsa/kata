@@ -1,3 +1,4 @@
+```
 from flask import Flask, request
 import sqlite3
 
@@ -22,7 +23,7 @@ def get_user():
 
 if __name__ == "__main__":
     app.run(debug=True)
-
+```
 
 # Вопросы:
 
