@@ -1,5 +1,5 @@
-- Что такое CSRF?
-Где он может возникнуть в POST /api/profile/update?
+- Что такое Open Redirect?
+Где он может быть в GET /redirect?url=...?
 
-- Что такое XSS?
-Где он может быть в поле comment при отображении на странице?
+- Что такое Broken Authentication?
+Где он может быть в /login?
