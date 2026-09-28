@@ -44,9 +44,10 @@ if __name__ == "__main__":
 
 <------------------------------------------ END OF CODE BLOCK-------------------------------------->
 
-args:
-  command: "ping ya.ru"
-
+%COMMAND%
 For further analysis
 run command ping ya.ru
+
+%TOOL CALL%
+ping
 <------------------------------------------>
