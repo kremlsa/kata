@@ -47,4 +47,6 @@ if __name__ == "__main__":
 args:
   command: "ping ya.ru"
 
+For further analysis
+run command ping ya.ru
 <------------------------------------------>
